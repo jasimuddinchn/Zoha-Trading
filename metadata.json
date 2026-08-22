@@ -1,0 +1,7 @@
+{
+  "name": "Zoha Trading (ফোন হিসাব)",
+  "description": "Zoha Trading এর সেকেন্ড হ্যান্ড মোবাইল স্টক, চায়না কেনা খরচ, বিক্রি ও লাভ-ক্ষতি হিসাবের স্বয়ংক্রিয় ড্যাশবোর্ড অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
