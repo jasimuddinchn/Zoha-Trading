@@ -11,6 +11,6 @@ workflows:
             script: | 
                 gradle assembleDebug
        artifacts:
-           - app/build/outputs/**/*.apk
-           - build/outputs/**/*.apk
+          - app/build/outputs/**/*.apk
+          - build/outputs/**/*.apk
                                                                                   
